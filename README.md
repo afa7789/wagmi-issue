@@ -1,3 +1,11 @@
+# Issue
+https://github.com/wagmi-dev/wagmi/discussions/2081
+
+Issue related to type error on more up to date ( after 0.9 wagmi ) 
+
+I can't define my chain providers ( I would rollback but need to use moonbeam )
+
+# How to run stuff:
 This is a [Next.js](https://nextjs.org) + [wagmi](https://wagmi.sh) project bootstrapped with [`create-wagmi`](https://github.com/wagmi-dev/wagmi/tree/main/packages/create-wagmi)
 
 # Getting Started
